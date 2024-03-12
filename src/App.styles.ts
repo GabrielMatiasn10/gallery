@@ -44,10 +44,10 @@ export const UploadForm = styled.form`
         background-color: #756DF4;
         border: 0;
         color: #FFF;
-        padding: 8px 16px;
+        padding: 10px 20px;
         font-size: 15px;
         border-radius: 10px;
-        margin: 0 20px;
+        
         cursor: pointer;
 
         &:hover {

@@ -17,14 +17,14 @@ export const Container = styled.div`
         background-color: #756DF4;
         border: 0;
         color: #FFF;
-        padding: 8px 16px;
+        padding: 10px 20px;
         font-size: 15px;
         border-radius: 10px;
         margin: 10px auto 0 auto;
         cursor: pointer;
 
         &:hover {
-            opacity: .9;
+            opacity: .10;
         }
     }
 `;
